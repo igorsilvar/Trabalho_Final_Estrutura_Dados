@@ -57,7 +57,7 @@ Calcula o **caminho mais longo** de `u` até `dest` sem ciclos, utilizando **DFS
 
 ---
 
-## 🧪 Exemplo de execução
+## Exemplo de execução
 
 Com as seguintes conexões:
 
